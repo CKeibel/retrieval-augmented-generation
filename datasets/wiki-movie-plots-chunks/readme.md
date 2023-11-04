@@ -14,3 +14,5 @@ Out [1]: Dataset({
 ```
 
 For the embeddings the `sentence-transformers/all-mpnet-base-v2` sentence transformer from [huggingface](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) was used.
+
+*NOTE: The converted huggingface dataset is to large to upload to github, therefore I pushed the prepared pandas dataframe in pickle fomrat to the repo.*
