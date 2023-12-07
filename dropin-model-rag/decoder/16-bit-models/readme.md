@@ -1,0 +1,2 @@
+- Evaluator: Llama 2 70b (4bit)
+- Decoder: 16bit

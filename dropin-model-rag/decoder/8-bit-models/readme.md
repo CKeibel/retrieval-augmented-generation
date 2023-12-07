@@ -1,0 +1,2 @@
+- evaluator: llama2-70b (4-bit)
+- decoder: 8bit
